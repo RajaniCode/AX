@@ -1,0 +1,24 @@
+Last login: Wed Aug 14 12:56:27 on ttys000
+rajaniapple@Rajanis-MacBook-Pro ~ % cd /Users/rajaniapple/Desktop/GitHub/CS-Add-3/CS-1/CS/CS/CS/CS11/macOSarm64/CS11/GCC/C 
+rajaniapple@Rajanis-MacBook-Pro C % sw_vers
+ProductName:		macOS
+ProductVersion:		14.4.1
+BuildVersion:		23E224
+rajaniapple@Rajanis-MacBook-Pro C % arch
+arm64
+rajaniapple@Rajanis-MacBook-Pro C % gcc --version
+Apple clang version 15.0.0 (clang-1500.3.9.4)
+Target: arm64-apple-darwin23.4.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+rajaniapple@Rajanis-MacBook-Pro C % cat msys64-mingw64-gcc.c
+// msys64-mingw64-gcc.c
+// gcc -c -fPIC msys64-mingw64-gcc.c
+// gcc -shared -o msys64-mingw64-gcc.so msys64-mingw64-gcc.o
+#include <stdio.h>
+int
+c_code(int number) {
+  return number * 10;
+}%                                                                                                                                          rajaniapple@Rajanis-MacBook-Pro C % gcc -c -fPIC msys64-mingw64-gcc.c
+rajaniapple@Rajanis-MacBook-Pro C % gcc -shared -o msys64-mingw64-gcc.so msys64-mingw64-gcc.o
+rajaniapple@Rajanis-MacBook-Pro C % 

@@ -1,0 +1,36 @@
+Last login: Wed Aug 14 14:02:54 on ttys000
+rajaniapple@Rajanis-MacBook-Pro ~ % cd /Users/rajaniapple/Desktop/GitHub/CS-Add-3/CS-1/CS/CS/CS/CS11/macOSarm64/CS11/GCC/C_x86_64 
+rajaniapple@Rajanis-MacBook-Pro C_x86_64 % sw_vers
+ProductName:		macOS
+ProductVersion:		14.4.1
+BuildVersion:		23E224
+rajaniapple@Rajanis-MacBook-Pro C_x86_64 % arch
+arm64
+rajaniapple@Rajanis-MacBook-Pro C_x86_64 % arch -x86_64 zsh
+rajaniapple@Rajanis-MacBook-Pro C_x86_64 % arch                                                                             
+i386
+rajaniapple@Rajanis-MacBook-Pro C_x86_64 % gcc --version 
+Apple clang version 15.0.0 (clang-1500.3.9.4)
+Target: x86_64-apple-darwin23.4.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+rajaniapple@Rajanis-MacBook-Pro C_x86_64 % cat msys64-mingw64-gcc.c
+// msys64-mingw64-gcc.c
+// gcc -c -fPIC msys64-mingw64-gcc.c
+// gcc -shared -o msys64-mingw64-gcc.so msys64-mingw64-gcc.o
+#include <stdio.h>
+int
+c_code(int number) {
+  return number * 10;
+}%
+rajaniapple@Rajanis-MacBook-Pro C_x86_64 % gcc -c -fPIC msys64-mingw64-gcc.c
+rajaniapple@Rajanis-MacBook-Pro C_x86_64 % gcc -shared -o msys64-mingw64-gcc.so msys64-mingw64-gcc.o
+rajaniapple@Rajanis-MacBook-Pro C_x86_64 % exit
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+rajaniapple@Rajanis-MacBook-Pro C_x86_64 % arch            
+arm64
+rajaniapple@Rajanis-MacBook-Pro C_x86_64 % 
