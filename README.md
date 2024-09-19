@@ -1,71 +1,22 @@
-Auxiliary
----------
+Azure
+-----
 
-- C#
-
-- .NET Framework
-
-- ASP.NET MVC Razor
-
-- ASP.NET MVC
-
-- ASP.NET Web API
-
-- ASP.NET SignalR
-
-- ASP.NET
-
-- Entity Framework
-
-- BizTalk
-
-- SharePoint
-
-- Android
-
-- iOS
-
-- Analytics
-
-- Linux
-
-- C
-
-- C++
-
-- HTML-CSS
-
-- PHP
-
-- Perl
-
-- Docker
-
-- Git
-
-- Elixir
-
-- Golang
-
-- R
-
-- Regular Expressions
+- Azure
 
 Credits
 -------
-[developer.android.com](https://developer.android.com/)  
-[developer.apple.com](https://developer.apple.com/)  
-[microsoft.com](https://microsoft.com/)  
-[hadoop.apache.org](https://hadoop.apache.org/)  
-[spark.apache.org](https://spark.apache.org/)  
+[azure.microsoft.com](https://azure.microsoft.com/)  
+[kubernetes.io](https://kubernetes.io/)  
+[microk8s.io](https://microk8s.io/)  
+[multipass.run](https://multipass.run/)  
+[ubuntu.com](https://ubuntu.com/)  
 [docker.com](https://docker.com/)  
-[elixir-lang.org](https://elixir-lang.org/)  
-[gcc.gnu.org](https://gcc.gnu.org/)  
-[git-scm.com](https://git-scm.com/)  
-[ruby-lang.org](https://ruby-lang.org/)  
-[go.dev](https://go.dev/)  
-[w3.org](https://w3.org/)  
-[linux.org](https://linux.org/)  
-[perl.org](https://perl.org/)  
-[php.net](https://php.net/)  
-[r-project.org](https://r-project.org/)
+[nginx.org](https://nginx.org/)  
+[nodejs.org](https://nodejs.org/)  
+[npmjs.com](https://npmjs.com/)  
+[expressjs.com](https://expressjs.com/)  
+[mongodb.com](https://mongodb.com/)  
+[min.io](https://min.io/)  
+[erraform.io]https://terraform.io/  
+[rules.sonarsource.com/azureresourcemanager](https://rules.sonarsource.com/azureresourcemanager/)  
+[app.diagrams.net](https://app.diagrams.net/)
