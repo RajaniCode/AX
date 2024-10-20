@@ -26,7 +26,7 @@ Credits/dotnet.microsoft.com.svg?raw=true)](https://dotnet.microsoft.com/)
 [![image](
 Credits/microsoft.com.svg?raw=true)](https://microsoft.com/)  
 [![image](
-Credits/dotnetfoundation.org.svg?raw=true)](https://dotnetfoundation.org/) 
+Credits/dotnetfoundation.org.svg?raw=true)](https://dotnetfoundation.org/)  
 [![image](
 Credits/aws.amazon.com.svg?raw=true)](https://aws.amazon.com/)  
 [![image](
