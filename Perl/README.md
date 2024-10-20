@@ -21,14 +21,3 @@ Credits/jquery.com.svg?raw=true)](https://jquery.com/)
 Credits/developer.mozilla.org.svg?raw=true)](https://developer.mozilla.org/)  
 [![image](
 Credits/getbootstrap.com.svg?raw=true)](https://getbootstrap.com/)
-
-
-
-[perl.org](https://perl.org/)  
-[cpan.org](https://cpan.org/)  
-[strawberryperl.com](https://strawberryperl.com/)  
-[metacpan.org](https://metacpan.org/)  
-[activestate.com](https://activestate.com/)  
-[jquery.com](https://jquery.com/)  
-[developer.mozilla.org](https://developer.mozilla.org/)  
-[getbootstrap.com](https://getbootstrap.com/)
