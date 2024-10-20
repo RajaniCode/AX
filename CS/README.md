@@ -1,69 +1,81 @@
-JavaScript
-----------
+CS
+--
 
-- JavaScript
+- C#
 
-- Node.js
+- .NET Framework
 
-- Express.js
+- ASP.NET MVC Razor
 
-- React
+- ASP.NET MVC
 
-- Angular
+- ASP.NET Web API
 
-- TypeScript
+- ASP.NET SignalR
 
-- Backbone.js
+- ASP.NET
 
-- Ember.js
+- Entity Framework
 
-- Knockout.js
-
-- Stripe.js
-
-- jQuery
-
-- CoffeeScript
-
-- ECMAScript
+- SQL Server
 
 Credits
 -------
 [![image](
-Credits/nodejs.org.svg?raw=true)](https://nodejs.org/)  
+Credits/dotnet.microsoft.com.svg?raw=true)](https://dotnet.microsoft.com/)  
 [![image](
-Credits/npmjs.com.svg?raw=true)](https://npmjs.com/)  
+Credits/microsoft.com.svg?raw=true)](https://microsoft.com/)  
 [![image](
-Credits/pnpm.io.svg?raw=true)](https://pnpm.io/)  
-[![image](
-Credits/expressjs.com.svg?raw=true)](https://expressjs.com/)  
-[![image](
-Credits/react.dev.svg?raw=true)](https://react.dev/)  
+Credits/aws.amazon.com.svg?raw=true)](https://aws.amazon.com/)  
 [![image](
 Credits/angular.dev.svg?raw=true)](https://angular.dev/)  
 [![image](
 Credits/typescriptlang.org.svg?raw=true)](https://typescriptlang.org/)  
 [![image](
-Credits/backbonejs.org.svg?raw=true)](https://backbonejs.org/)  
-[![image](
-Credits/emberjs.com.svg?raw=true)](https://emberjs.com/)  
-[![image](
 Credits/knockoutjs.com.svg?raw=true)](https://knockoutjs.com/)  
-[![image](
-Credits/stripe.com.svg?raw=true)](https://stripe.com/)  
 [![image](
 Credits/jquery.com.svg?raw=true)](https://jquery.com/)  
 [![image](
 Credits/developer.mozilla.org.svg?raw=true)](https://developer.mozilla.org/)  
 [![image](
-Credits/coffeescript.org.svg?raw=true)](https://coffeescript.org/)    
-[![image](
-Credits/openjsf.org.svg?raw=true)](https://openjsf.org/)    
-[![image](
 Credits/ecma-international.org.svg?raw=true)](https://ecma-international.org/)  
+[![image](
+Credits/Kendo-UI-telerik.com.svg?raw=true)](https://telerik.com/)  
 [![image](
 Credits/getbootstrap.com.svg?raw=true)](https://getbootstrap.com/)  
 [![image](
-Credits/JavaScript-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/javascript/)  
+Credits/odata.org.svg?raw=true)](https://www.odata.org/)  
 [![image](
-Credits/TypeScript-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/typescript/)
+Credits/owin.org.svg?raw=true)](http://owin.org/)  
+[![image](
+Credits/python.org.svg?raw=true)](https://python.org/)  
+[![image](
+Credits/ironpython.net.svg?raw=true)](https://ironpython.net/)  
+[![image](
+Credits/ruby-lang.org.svg?raw=true)](https://ruby-lang.org/)  
+[![image](
+Credits/ironruby.net.svg?raw=true)](https://ironruby.net/)  
+[![image](
+Credits/nuget.org.svg?raw=true)](https://nuget.org/)  
+[![image](
+Credits/paypal.com.svg?raw=true)](https://paypal.com/)  
+[![image](
+Credits/nunit.org.svg?raw=true)](https://nunit.org/)  
+[![image](
+Credits/xunit.net.svg?raw=true)](https://xunit.net/)  
+[![image](
+Credits/nmock.sourceforge.net.svg?raw=true)](https://nmock.sourceforge.net/)  
+[![image](
+Credits/logging.apache.org.svg?raw=true)](https://logging.apache.org/)  
+[![image](
+Credits/nlog-project.org.svg?raw=true)](https://nlog-project.org/)  
+[![image](
+Credits/serilog.net.svg?raw=true)](https://serilog.net/)  
+[![image](
+Credits/elmah.io.svg?raw=true)](https://elmah.io/)  
+[![image](
+Credits/ncover.com.svg?raw=true)](https://ncover.com/)  
+[![image](
+Credits/essentialobjects.com.svg?raw=true)](https://essentialobjects.com/)  
+[![image](
+Credits/Crystal-Reports-sap.com.svg?raw=true)](https://sap.com/)
