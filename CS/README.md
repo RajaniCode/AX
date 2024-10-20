@@ -26,7 +26,7 @@ Credits/dotnet.microsoft.com.svg?raw=true)](https://dotnet.microsoft.com/)
 [![image](
 Credits/microsoft.com.svg?raw=true)](https://microsoft.com/)  
 [![image](
-Credits/dotnetfoundation.org.svg?raw=true)](https://dotnetfoundation.org/)  
+Credits/dotnetfoundation.org.svg?raw=true)](https://dotnetfoundation.org/)   
 [![image](
 Credits/aws.amazon.com.svg?raw=true)](https://aws.amazon.com/)  
 [![image](
@@ -61,6 +61,8 @@ Credits/ironruby.net.svg?raw=true)](http://ironruby.net/)
 Credits/nuget.org.svg?raw=true)](https://nuget.org/)  
 [![image](
 Credits/paypal.com.svg?raw=true)](https://paypal.com/)  
+[![image](
+Credits/visualstudio.microsoft.com.svg?raw=true)](https://visualstudio.microsoft.com/)  
 [![image](
 Credits/nunit.org.svg?raw=true)](https://nunit.org/)  
 [![image](
