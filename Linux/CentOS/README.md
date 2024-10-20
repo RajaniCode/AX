@@ -40,4 +40,4 @@ Credits/postgresql.org.svg?raw=true)](https://postgresql.org/)
 [![image](
 Credits/git-scm.com.svg?raw=true)](https://git-scm.com)  
 [![image](
-Credits/eclipse.org.svg?raw=true)](https://eclipse.org/)
+Credits/eclipseide.org.svg?raw=true)](https://eclipseide.org/)
