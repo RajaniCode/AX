@@ -54,7 +54,7 @@ Credits/ironpython.net.svg?raw=true)](https://ironpython.net/)
 [![image](
 Credits/ruby-lang.org.svg?raw=true)](https://ruby-lang.org/)  
 [![image](
-Credits/ironruby.net.svg?raw=true)](https://ironruby.net/)  
+Credits/ironruby.net.svg?raw=true)](http://ironruby.net/)  
 [![image](
 Credits/nuget.org.svg?raw=true)](https://nuget.org/)  
 [![image](
@@ -74,7 +74,7 @@ Credits/serilog.net.svg?raw=true)](https://serilog.net/)
 [![image](
 Credits/elmah.io.svg?raw=true)](https://elmah.io/)  
 [![image](
-Credits/ncover.com.svg?raw=true)](https://ncover.com/)  
+Credits/ncover.com.svg?raw=true)](https://www.ncover.com/)  
 [![image](
 Credits/essentialobjects.com.svg?raw=true)](https://essentialobjects.com/)  
 [![image](
