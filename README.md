@@ -76,8 +76,6 @@ Credits/elixir-lang.org.svg?raw=true)](https://elixir-lang.org/)
 [![image](
 Credits/php.net.svg?raw=true)](https://php.net/)  
 [![image](
-Credits/apachefriends.org.svg?raw=true)](https://apachefriends.org/)  
-[![image](
 Credits/perl.org.svg?raw=true)](https://perl.org/)  
 [![image](
 Credits/gcc.gnu.org.svg?raw=true)](https://gcc.gnu.org/)  
