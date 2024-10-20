@@ -17,10 +17,10 @@ Credits/Java-oracle.com.svg?raw=true)](https://oracle.com/java/)
 Credits/dotnet.microsoft.com.svg?raw=true)](https://dotnet.microsoft.com/)  
 [![image](
 Credits/microsoft.com.svg?raw=true)](https://microsoft.com/)  
-![image](
-Credits/C-static-code-analysis-rules.sonarsource.com.svg?raw=true)](]https://rules.sonarsource.com/c/)  
-![image](
-Credits/CPP-static-code-analysis-rules.sonarsource.com.svg?raw=true))](https://rules.sonarsource.com/cpp/)
+[![image](
+Credits/C-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/c/)  
+[![image](
+Credits/CPP-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/cpp/)
 
 
 [gcc.gnu.org](https://gcc.gnu.org/)  
