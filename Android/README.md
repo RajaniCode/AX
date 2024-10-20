@@ -16,8 +16,6 @@ Credits/go.dev.svg?raw=true)](https://go.dev/)
 [![image](
 Credits/kotlinlang.org.svg?raw=true)](https://kotlinlang.org/)  
 [![image](
-Credits/kotlinlang.org.svg?raw=true)](https://kotlinlang.org/)  
-[![image](
 Credits/openjdk.org.svg?raw=true)](https://openjdk.org/)  
 [![image](
 Credits/Java-oracle.com.svg?raw=true)](https://oracle.com/java/)  
