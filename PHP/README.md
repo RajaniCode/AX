@@ -16,7 +16,7 @@ Credits/getcomposer.org.svg?raw=true)](https://getcomposer.org/)
 [![image](
 Credits/getlaminas.org.svg?raw=true)](https://getlaminas.org/)  
 [![image](
-Credits/zend.com.svg?raw=true)](https://lzend.com)  
+Credits/zend.com.svg?raw=true)](https://zend.com)  
 [![image](
 Credits/laravel.com.svg?raw=true)](https://laravel.com)  
 [![image](
