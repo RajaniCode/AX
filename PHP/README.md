@@ -22,7 +22,7 @@ Credits/laravel.com.svg?raw=true)](https://laravel.com)
 [![image](
 Credits/httpd.apache.org.svg?raw=true)](https://httpd.apache.org/)  
 [![image](
-Credits/jquery.com.svg?raw=true)](https://jquery.com/) 
+Credits/jquery.com.svg?raw=true)](https://jquery.com/)  
 [![image](
 Credits/developer.mozilla.org.svg?raw=true)](https://developer.mozilla.org/)  
 [![image](
@@ -39,12 +39,3 @@ Credits/mariadb.org.svg?raw=true)](https://mariadb.org/)
 Credits/mariadb.com.svg?raw=true)](https://mariadb.com/)  
 [![image](
 Credits/PHP-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/php/)
-
-[php.net](https://php.net/)  
-[apachefriends.org](https://apachefriends.org/)  
-[getcomposer.org](https://getcomposer.org/)  
-[getlaminas.org](https://getlaminas.org/)  
-[jquery.com](https://jquery.com/)  
-[developer.mozilla.org](https://developer.mozilla.org/)  
-[getbootstrap.com](https://getbootstrap.com/)  
-[rules.sonarsource.com/php](https://rules.sonarsource.com/php/)
