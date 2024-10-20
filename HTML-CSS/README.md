@@ -12,7 +12,7 @@ Credits/w3.org.svg?raw=true)](https://w3.org/)
 [![image](
 Credits/getbootstrap.com.svg?raw=true)](https://getbootstrap.com/)  
 [![image](
-Credits/sass-lang.comsvg?raw=true)](https://sass-lang.com/)  
+Credits/sass-lang.com.svg?raw=true)](https://sass-lang.com/)  
 [![image](
 Credits/react.dev.svg?raw=true)](https://react.dev/)  
 [![image](
