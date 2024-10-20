@@ -14,6 +14,8 @@ Credits/getbootstrap.com.svg?raw=true)](https://getbootstrap.com/)
 [![image](
 Credits/sass-lang.com.svg?raw=true)](https://sass-lang.com/)  
 [![image](
+Credits/developer.android.com.svg?raw=true)](https://developer.android.com/)  
+[![image](
 Credits/react.dev.svg?raw=true)](https://react.dev/)  
 [![image](
 Credits/jquery.com.svg?raw=true)](https://jquery.com/)  
