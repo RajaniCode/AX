@@ -8,7 +8,7 @@ HTML-CSS
 Credits
 -------
 [![image](
-Credits/W3.org.svg?raw=true)](https://w3.org/) 
+Credits/w3.org.svg?raw=true)](https://w3.org/)  
 [![image](
 Credits/getbootstrap.com.svg?raw=true)](https://getbootstrap.com/)  
 [![image](
