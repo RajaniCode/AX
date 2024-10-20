@@ -18,9 +18,9 @@ Credits/dotnet.microsoft.com.svg?raw=true)](https://dotnet.microsoft.com/)
 [![image](
 Credits/microsoft.com.svg?raw=true)](https://microsoft.com/)  
 ![image](
-Credits/C-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/c/)  
+Credits/C-static-code-analysis-rules.sonarsource.com.svg?raw=true)](]https://rules.sonarsource.com/c/)  
 ![image](
-Credits/CPP-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/cpp/)
+Credits/CPP-static-code-analysis-rules.sonarsource.com.svg?raw=true))](https://rules.sonarsource.com/cpp/)
 
 
 [gcc.gnu.org](https://gcc.gnu.org/)  
