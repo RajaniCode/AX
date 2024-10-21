@@ -50,6 +50,8 @@ Credits/odata.org.svg?raw=true)](https://www.odata.org/)
 [![image](
 Credits/python.org.svg?raw=true)](https://python.org/)  
 [![image](
+Credits/pypi.org.svg?raw=true)](https://pypi.org/)  
+[![image](
 Credits/ironpython.net.svg?raw=true)](https://ironpython.net/)  
 [![image](
 Credits/ruby-lang.org.svg?raw=true)](https://ruby-lang.org/)  
@@ -59,8 +61,6 @@ Credits/ironruby.net.svg?raw=true)](http://ironruby.net/)
 Credits/nuget.org.svg?raw=true)](https://nuget.org/)  
 [![image](
 Credits/paypal.com.svg?raw=true)](https://paypal.com/)  
-[![image](
-Credits/visualstudio.microsoft.com.svg?raw=true)](https://visualstudio.microsoft.com/)  
 [![image](
 Credits/nunit.org.svg?raw=true)](https://nunit.org/)  
 [![image](
@@ -80,4 +80,8 @@ Credits/ncover.com.svg?raw=true)](https://www.ncover.com/)
 [![image](
 Credits/essentialobjects.com.svg?raw=true)](https://essentialobjects.com/)  
 [![image](
-Credits/Crystal-Reports-sap.com.svg?raw=true)](https://sap.com/)
+Credits/Crystal-Reports-sap.com.svg?raw=true)](https://sap.com/)  
+[![image](
+Credits/learn.microsoft.com.svg?raw=true)](https://learn.microsoft.com/)  
+[![image](
+Credits/visualstudio.microsoft.com.svg?raw=true)](https://visualstudio.microsoft.com/)  
