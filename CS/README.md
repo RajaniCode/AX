@@ -44,6 +44,8 @@ Credits/ecma-international.org.svg?raw=true)](https://ecma-international.org/)
 [![image](
 Credits/Kendo-UI-telerik.com.svg?raw=true)](https://telerik.com/)  
 [![image](
+Credits/infragistics.com.svg?raw=true)](https://infragistics.com/)  
+[![image](
 Credits/getbootstrap.com.svg?raw=true)](https://getbootstrap.com/)  
 [![image](
 Credits/odata.org.svg?raw=true)](https://www.odata.org/)  
@@ -82,8 +84,10 @@ Credits/ncover.com.svg?raw=true)](https://www.ncover.com/)
 [![image](
 Credits/essentialobjects.com.svg?raw=true)](https://essentialobjects.com/)  
 [![image](
-Credits/Crystal-Reports-sap.com.svg?raw=true)](https://sap.com/)  
-[![image](
 Credits/learn.microsoft.com.svg?raw=true)](https://learn.microsoft.com/)  
 [![image](
 Credits/visualstudio.microsoft.com.svg?raw=true)](https://visualstudio.microsoft.com/)  
+[![image](
+Credits/linqpad.net.svg?raw=true)](https://linqpad.net/)  
+[![image](
+Credits/Crystal-Reports-sap.com.svg?raw=true)](https://sap.com/)
