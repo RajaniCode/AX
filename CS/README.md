@@ -48,8 +48,6 @@ Credits/getbootstrap.com.svg?raw=true)](https://getbootstrap.com/)
 [![image](
 Credits/odata.org.svg?raw=true)](https://www.odata.org/)  
 [![image](
-Credits/owin.org.svg?raw=true)](http://owin.org/)  
-[![image](
 Credits/python.org.svg?raw=true)](https://python.org/)  
 [![image](
 Credits/ironpython.net.svg?raw=true)](https://ironpython.net/)  
