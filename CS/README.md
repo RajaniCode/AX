@@ -84,10 +84,10 @@ Credits/ncover.com.svg?raw=true)](https://www.ncover.com/)
 [![image](
 Credits/essentialobjects.com.svg?raw=true)](https://essentialobjects.com/)  
 [![image](
-Credits/learn.microsoft.com.svg?raw=true)](https://learn.microsoft.com/)  
-[![image](
 Credits/visualstudio.microsoft.com.svg?raw=true)](https://visualstudio.microsoft.com/)  
 [![image](
 Credits/linqpad.net.svg?raw=true)](https://linqpad.net/)  
+[![image](
+Credits/learn.microsoft.com.svg?raw=true)](https://learn.microsoft.com/)  
 [![image](
 Credits/Crystal-Reports-sap.com.svg?raw=true)](https://sap.com/)
