@@ -84,4 +84,4 @@ Credits/git-scm.com.svg?raw=true)](https://git-scm.com/)
 [![image](
 Credits/linux.org.svg?raw=true)](https://linux.org/)  
 [![image](
-Credits/w3.org.svg?raw=true)](https://w3.org/)
+Credits/w3.org.svg)](https://w3.org/)
