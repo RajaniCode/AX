@@ -10,7 +10,7 @@ Credits/hadoop.apache.org.svg)](https://hadoop.apache.org/)
 [![image](
 Credits/spark.apache.org.svg)](https://spark.apache.org/)  
 [![image](
-Credits/splunk.apache.org.svg)](https://splunk.apache.org/)  
+Credits/splunk.com.svg)](https://splunk.com/)  
 [![image](
 Credits/hive.apache.org.svg)](https://hive.apache.org/)  
 [![image](
