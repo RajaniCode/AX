@@ -80,7 +80,5 @@ Credits/perl.org.svg?raw=true)](https://perl.org/)
 [![image](
 Credits/gcc.gnu.org.svg?raw=true)](https://gcc.gnu.org/)  
 [![image](
-Credits/git-scm.com.svg?raw=true)](https://git-scm.com/)  
-[![image](
-Credits/linux.org.svg?raw=true)](https://linux.org/)  
-[![image](Credits/w3.org.svg?raw=true)](https://w3.org/)
+Credits/git-scm.com.svg?raw=true)](https://git-scm.com/)  [![image](Credits/linux.org.svg?raw=true)](https://linux.org/)  
+[![image](Credits/w3.org2.svg?raw=true)](https://w3.org/)
