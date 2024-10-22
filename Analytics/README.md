@@ -10,6 +10,14 @@ Credits/hadoop.apache.org.svg)](https://hadoop.apache.org/)
 [![image](
 Credits/spark.apache.org.svg)](https://spark.apache.org/)  
 [![image](
+Credits/splunk.apache.org.svg)](https://splunk.apache.org/)  
+[![image](
+Credits/hive.apache.org.svg)](https://hive.apache.org/)  
+[![image](
+Credits/hbase.apache.org.svg)](https://hbase.apache.org/)  
+[![image](
+Credits/pig.apache.org.svg)](https://pig.apache.org/)  
+[![image](
 Credits/python.org.svg)](https://python.org/)  
 [![image](
 Credits/pypi.org.svg)](https://pypi.org/)  
