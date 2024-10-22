@@ -57,7 +57,8 @@ Credits
 Credits/developer.android.com.svg?raw=true)](https://developer.android.com/)  
 [![image](
 Credits/developer.apple.com.svg?raw=true)](https://developer.apple.com/)  
-[![image](Credits/microsoft.com1.svg?raw=true)](https://microsoft.com/)  
+[![image](
+Credits/microsoft.com.svg?raw=true)](https://microsoft.com/)  
 [![image](
 Credits/hadoop.apache.org.svg?raw=true)](https://hadoop.apache.org/)  
 [![image](
@@ -82,5 +83,4 @@ Credits/gcc.gnu.org.svg?raw=true)](https://gcc.gnu.org/)
 Credits/git-scm.com.svg?raw=true)](https://git-scm.com/)  
 [![image](
 Credits/linux.org.svg?raw=true)](https://linux.org/)  
-[![image](
-Credits/w3.org.svg?raw=true)](https://w3.org/)
+[![image](Credits/w3.org.svg?raw=true)](https://w3.org/)
