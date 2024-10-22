@@ -58,7 +58,7 @@ Credits/developer.android.com.svg?raw=true)](https://developer.android.com/)
 [![image](
 Credits/developer.apple.com.svg?raw=true)](https://developer.apple.com/)  
 [![image](
-Credits/microsoft.com.svg?raw=true)](https://microsoft.com/)  
+Credits/microsoft.com.svg)](https://microsoft.com/)  
 [![image](
 Credits/hadoop.apache.org.svg?raw=true)](https://hadoop.apache.org/)  
 [![image](
