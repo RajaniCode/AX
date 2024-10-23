@@ -28,8 +28,6 @@ Credits/developer.mozilla.org.svg)](https://developer.mozilla.org/)
 [![image](
 Credits/getbootstrap.com.svg)](https://getbootstrap.com/)  
 [![image](
-Credits/perl.org.svg)](https://perl.org/)  
-[![image](
 Credits/mysql.com.svg)](https://mysql.com/)  
 [![image](
 Credits/dev.mysql.com.svg)](https://dev.mysql.com/)  
