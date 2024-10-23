@@ -88,6 +88,6 @@ Credits/visualstudio.microsoft.com.svg?raw=true)](https://visualstudio.microsoft
 [![image](
 Credits/linqpad.net.svg?raw=true)](https://linqpad.net/)  
 [![image](
-Credits/learn.microsoft.com.svg?raw=true)](https://learn.microsoft.com/)  
+Credits/CS.NET-learn.microsoft.com.svg)](https://learn.microsoft.com/dotnet/)  
 [![image](
 Credits/Crystal-Reports-sap.com.svg?raw=true)](https://sap.com/)
