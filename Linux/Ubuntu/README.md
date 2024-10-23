@@ -14,4 +14,6 @@ Credits/CS.NET-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)
 [![image](
 Credits/ubuntu.com.svg)](https://virtualbox.org/)  
 [![image](
-Credits/vagrantup.com.svg)](https://vagrantup.com/)
+Credits/vagrantup.com.svg)](https://vagrantup.com/)  
+[![image](
+Credits/virtualbox.org.svg)](https://virtualbox.org/)
