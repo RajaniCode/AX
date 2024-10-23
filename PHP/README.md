@@ -36,4 +36,6 @@ Credits/mariadb.org.svg)](https://mariadb.org/)
 [![image](
 Credits/mariadb.com.svg)](https://mariadb.com/)  
 [![image](
+Credits/jetbrains.com.svg)](https://jetbrains.com/)  
+[![image](
 Credits/PHP-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/php/)
