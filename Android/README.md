@@ -10,6 +10,8 @@ Android
 Credits
 -------
 [![image](
+Credits/android.com.svg)](https://android.com/)  
+[![image](
 Credits/developer.android.com.svg)](https://developer.android.com/)  
 [![image](
 Credits/go.dev.svg)](https://go.dev/)  
