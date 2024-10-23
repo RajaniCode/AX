@@ -6,6 +6,10 @@ SharePoint
 Credits
 -------
 [![image](
+Credits/microsoft.com.svg)](https://microsoft.com/)  
+[![image](
 Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
 [![image](
-Credits/microsoft.com.svg)](https://microsoft.com/)
+Credits/SharePoint-Server-microsoft.com.svg)](https://microsoft.com/en-us/sharepoint/)
+[![image](
+Credits/SharePoint-Server-learn.microsoft.com.svg)](https://learn.microsoft.com/en-us/sharepoint/)
