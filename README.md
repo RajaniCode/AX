@@ -60,7 +60,7 @@ Credits/developer.apple.com.svg)](https://developer.apple.com/)
 [![image](
 Credits/microsoft.com.svg)](https://microsoft.com/)  
 [![image](
-Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
+Credits/CS.NET-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
 [![image](
 Credits/hadoop.apache.org.svg)](https://hadoop.apache.org/)  
 [![image](
