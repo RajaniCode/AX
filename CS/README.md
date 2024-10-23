@@ -24,7 +24,7 @@ Credits
 [![image](
 Credits/microsoft.com.svg?raw=true)](https://microsoft.com/)  
 [![image](
-Credits/dotnet.microsoft.com.svg?raw=true)](https://dotnet.microsoft.com/)  
+Credits/CS.NET-dotnet.microsoft.com.svg?raw=true)](https://dotnet.microsoft.com/)  
 [![image](
 Credits/dotnetfoundation.org.svg?raw=true)](https://dotnetfoundation.org/)   
 [![image](
