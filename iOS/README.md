@@ -12,6 +12,8 @@ iOS
 Credits
 -------
 [![image](
+Credits/apple.com.svg)](https://apple.com/)  
+[![image](
 Credits/developer.apple.com.svg)](https://developer.apple.com/)  
 [![image](
 Credits/Xcode-developer.apple.com.svg)](https://developer.apple.com/xcode/)  
