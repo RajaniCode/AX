@@ -91,9 +91,9 @@ Credits/Crystal-Reports-sap.com.svg)](https://sap.com/)
 [![image](
 Credits/linqpad.net.svg)](https://linqpad.net/)  
 [![image](
-Credits/referencesource.microsoft.com.svg)](https://referencesource.microsoft.com/)  
+Credits/visualstudio.microsoft.com.svg)](https://visualstudio.microsoft.com/)  
 [![image](
-Credits/visualstudio.microsoft.com.svg)](https://visualstudio.microsoft.com/)<!--[![image](
+Credits/referencesource.microsoft.com.svg)](https://referencesource.microsoft.com/)<!--[![image](
 Credits/learn.microsoft.com.svg)](https://learn.microsoft.com/)-->  
 [![image](
 Credits/CS.NET-learn.microsoft.com.svg)](https://learn.microsoft.com/dotnet/)  
