@@ -20,11 +20,8 @@ Credits/zend.com.svg)](https://zend.com)
 [![image](
 Credits/laravel.com.svg)](https://laravel.com)  
 [![image](
-Credits/httpd.apache.org.svg)](https://httpd.apache.org/)  
-
-[![image](
-Credits/perl.org.svg)](https://perl.org/)  
-
+Credits/httpd.apache.org.svg)](https://httpd.apache.org/)<!--[![image](
+Credits/perl.org.svg)](https://perl.org/)-->  
 [![image](
 Credits/jquery.com.svg)](https://jquery.com/)  
 [![image](
@@ -40,10 +37,7 @@ Credits/mariadb.org.svg)](https://mariadb.org/)
 [![image](
 Credits/mariadb.com.svg)](https://mariadb.com/)  
 [![image](
-Credits/jetbrains.com.svg)](https://jetbrains.com/)  
-
-[![image](
-Credits/PhpStorm-jetbrains.com.svg)](https://jetbrains.com/phpstorm/)  
-
+Credits/jetbrains.com.svg)](https://jetbrains.com/)<!--[![image](
+Credits/PhpStorm-jetbrains.com.svg)](https://jetbrains.com/phpstorm/)-->  
 [![image](
 Credits/PHP-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/php/)
