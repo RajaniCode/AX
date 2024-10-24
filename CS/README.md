@@ -23,10 +23,8 @@ Credits
 -------
 [![image](
 Credits/microsoft.com.svg)](https://microsoft.com/)  
-<!--
-[![image](
-Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
--->
+<!--[![image](
+Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)-->  
 [![image](
 Credits/CS.NET-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
 [![image](
@@ -97,10 +95,8 @@ Credits/linqpad.net.svg)](https://linqpad.net/)
 Credits/referencesource.microsoft.com.svg)](https://referencesource.microsoft.com/)  
 [![image](
 Credits/visualstudio.microsoft.com.svg)](https://visualstudio.microsoft.com/)  
-<!--
-[![image](
-Credits/learn.microsoft.com.svg)](https://learn.microsoft.com/)  
--->
+<!--[![image](
+Credits/learn.microsoft.com.svg)](https://learn.microsoft.com/)-->  
 [![image](
 Credits/CS.NET-learn.microsoft.com.svg)](https://learn.microsoft.com/dotnet/)  
 [![image](
