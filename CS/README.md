@@ -22,7 +22,7 @@ CS
 Credits
 -------
 [![image](
-Credits/microsoft.com.svg)](https://microsoft.com/)  
+Credits/microsoft.com.svg)](https://microsoft.com/)
 <!--[![image](
 Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)-->  
 [![image](
@@ -94,7 +94,7 @@ Credits/linqpad.net.svg)](https://linqpad.net/)
 [![image](
 Credits/referencesource.microsoft.com.svg)](https://referencesource.microsoft.com/)  
 [![image](
-Credits/visualstudio.microsoft.com.svg)](https://visualstudio.microsoft.com/)  
+Credits/visualstudio.microsoft.com.svg)](https://visualstudio.microsoft.com/)
 <!--[![image](
 Credits/learn.microsoft.com.svg)](https://learn.microsoft.com/)-->  
 [![image](
