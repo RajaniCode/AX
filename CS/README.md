@@ -90,8 +90,6 @@ Credits/essentialobjects.com.svg)](https://essentialobjects.com/)
 [![image](
 Credits/linqpad.net.svg)](https://linqpad.net/)  
 [![image](
-Credits/paypal.com.svg)](https://paypal.com/)  
-[![image](
 Credits/visualstudio.microsoft.com.svg)](https://visualstudio.microsoft.com/)  
 [![image](
 Credits/learn.microsoft.com.svg)](https://learn.microsoft.com/)  
