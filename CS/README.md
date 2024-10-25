@@ -79,9 +79,7 @@ Credits/logging.apache.org.svg)](https://logging.apache.org/)
 [![image](
 Credits/nlog-project.org.svg)](https://nlog-project.org/)  
 [![image](
-Credits/serilog.net.svg)](https://serilog.net/)  
-[![image](
-Credits/elmah.io.svg)](https://elmah.io/)  
+Credits/serilog.net.svg)](https://serilog.net/)   
 [![image](
 Credits/ncover.com.svg)](https://www.ncover.com/)  
 [![image](
