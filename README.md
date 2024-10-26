@@ -58,9 +58,12 @@ Credits/developer.android.com.svg)](https://developer.android.com/)
 [![image](
 Credits/developer.apple.com.svg)](https://developer.apple.com/)  
 [![image](
-Credits/microsoft.com.svg)](https://microsoft.com/)  
+Credits/microsoft.com.svg)](https://microsoft.com/)<!--[![image](
+Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)-->  
 [![image](
 Credits/CS.NET-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
+[![image](
+Credits/CS-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/languages/csharp/)   
 [![image](
 Credits/hadoop.apache.org.svg)](https://hadoop.apache.org/)  
 [![image](
@@ -87,3 +90,12 @@ Credits/git-scm.com.svg)](https://git-scm.com/)
 Credits/linux.org.svg)](https://linux.org/)  
 [![image](
 Credits/w3.org.svg)](https://w3.org/)
+
+[![image](
+Credits/jetbrains.com.svg)](https://jetbrains.com/)
+[![image](
+Credits/GoLand-jetbrains.com.svg)](https://jetbrains.com/go/)  
+[![image](
+Credits/rust-lang.org.svg)](https://rust-lang.org/)
+[![image](
+Credits/RustRover-jetbrains.com.svg)](https://jetbrains.com/rust/)  
