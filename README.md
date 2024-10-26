@@ -89,13 +89,11 @@ Credits/git-scm.com.svg)](https://git-scm.com/)
 [![image](
 Credits/linux.org.svg)](https://linux.org/)  
 [![image](
-Credits/w3.org.svg)](https://w3.org/)
-
-[![image](
+Credits/w3.org.svg)](https://w3.org/)<!--[![image](
 Credits/jetbrains.com.svg)](https://jetbrains.com/)  
 [![image](
 Credits/GoLand-jetbrains.com.svg)](https://jetbrains.com/go/)  
 [![image](
 Credits/rust-lang.org.svg)](https://rust-lang.org/)  
 [![image](
-Credits/RustRover-jetbrains.com.svg)](https://jetbrains.com/rust/)
+Credits/RustRover-jetbrains.com.svg)](https://jetbrains.com/rust/)-->
