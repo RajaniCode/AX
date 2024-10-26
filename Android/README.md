@@ -15,6 +15,10 @@ Credits/android.com.svg)](https://android.com/)
 Credits/developer.android.com.svg)](https://developer.android.com/)  
 [![image](
 Credits/go.dev.svg)](https://go.dev/)  
+
+[![image](
+Credits/flutter.dev.svg)](https://flutter.dev/
+
 [![image](
 Credits/kotlinlang.org.svg)](https://kotlinlang.org/)  
 [![image](
