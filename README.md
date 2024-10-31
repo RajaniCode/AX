@@ -89,6 +89,8 @@ Credits/git-scm.com.svg)](https://git-scm.com/)
 [![image](
 Credits/linux.org.svg)](https://linux.org/)  
 [![image](
+Credits/opensource.org.svg)](https://opensource.org/)  
+[![image](
 Credits/UNIX-opengroup.org.svg)](https://opengroup.org/)<!--[![image](
 Credits/opengroup.org.svg)](https://opengroup.org/)-->  
 [![image](
