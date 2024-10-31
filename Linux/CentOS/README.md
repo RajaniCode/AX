@@ -22,6 +22,8 @@ Credits/pypi.org.svg)](https://pypi.org/)
 [![image](
 Credits/djangoproject.com.svg)](https://djangoproject.com/)  
 [![image](
+Credits/hadoop.apache.org.svg)](https://hadoop.apache.org/)  
+[![image](
 Credits/openjdk.org.svg)](https://openjdk.org/)  
 [![image](
 Credits/Java-oracle.com.svg)](https://oracle.com/java/)  
