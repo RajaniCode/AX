@@ -89,9 +89,8 @@ Credits/git-scm.com.svg)](https://git-scm.com/)
 [![image](
 Credits/linux.org.svg)](https://linux.org/)  
 [![image](
-Credits/UNIX-opengroup.org.svg)](https://opengroup.org/)  
-[![image](
-Credits/opengroup.org.svg)](https://opengroup.org/)  
+Credits/UNIX-opengroup.org.svg)](https://opengroup.org/)<!--[![image](
+Credits/opengroup.org.svg)](https://opengroup.org/)-->  
 [![image](
 Credits/w3.org.svg)](https://w3.org/)<!--[![image](
 Credits/jetbrains.com.svg)](https://jetbrains.com/)  
