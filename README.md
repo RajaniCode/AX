@@ -1,104 +1,47 @@
-Auxiliary
----------
-
-- C#
-
-- .NET Framework
-
-- ASP.NET MVC Razor
-
-- ASP.NET MVC
-
-- ASP.NET Web API
-
-- ASP.NET SignalR
-
-- ASP.NET
-
-- Entity Framework
-
-- BizTalk
-
-- SharePoint
-
-- Android
-
-- iOS
-
-- Analytics
-
-- Linux
+GCC
+---
 
 - C
 
 - C++
 
-- HTML-CSS
-
-- PHP
-
-- Perl
-
-- Docker
-
-- Git
-
-- Elixir
-
-- Golang
-
-- R
-
-- Regular Expressions
-
 Credits
 -------
 [![image](
-Credits/developer.android.com.svg)](https://developer.android.com/)  
+Credits/gcc.gnu.org.svg)](https://gcc.gnu.org/)  
 [![image](
-Credits/developer.apple.com.svg)](https://developer.apple.com/)  
+Credits/openjdk.org.svg)](https://openjdk.org/)  
+[![image](
+Credits/Java-oracle.com.svg)](https://oracle.com/java/)  
 [![image](
 Credits/microsoft.com.svg)](https://microsoft.com/)<!--[![image](
 Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)-->  
 [![image](
 Credits/CS.NET-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
 [![image](
-Credits/CS-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/languages/csharp/)   
+Credits/CS-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/languages/csharp/)  
 [![image](
-Credits/hadoop.apache.org.svg)](https://hadoop.apache.org/)  
+Credits/webassembly.org.svg)](https://webassembly.org/)  
 [![image](
-Credits/spark.apache.org.svg)](https://spark.apache.org/)  
+Credits/emscripten.org.svg)](https://emscripten.org/)  
 [![image](
-Credits/docker.com.svg)](https://docker.com/)  
+Credits/assemblyscript.org.svg)](https://assemblyscript.org/)  
 [![image](
-Credits/ruby-lang.org.svg)](https://ruby-lang.org/)  
+Credits/typescriptlang.org.svg)](https://typescriptlang.org/)  
+[![image](
+Credits/tinygo.org.svg)](https://tinygo.org/)  
 [![image](
 Credits/go.dev.svg)](https://go.dev/)  
 [![image](
-Credits/r-project.org.svg)](https://r-project.org/)  
-[![image](
-Credits/elixir-lang.org.svg)](https://elixir-lang.org/)  
-[![image](
-Credits/php.net.svg)](https://php.net/)  
-[![image](
-Credits/perl.org.svg)](https://perl.org/)  
-[![image](
-Credits/gcc.gnu.org.svg)](https://gcc.gnu.org/)  
-[![image](
-Credits/git-scm.com.svg)](https://git-scm.com/)  
-[![image](
-Credits/linux.org.svg)](https://linux.org/)  
-[![image](
-Credits/UNIX-opengroup.org.svg)](https://opengroup.org/)  
-[![image](
-Credits/opensource.org.svg)](https://opensource.org/)<!--[![image](
-Credits/opengroup.org.svg)](https://opengroup.org/)-->  
-[![image](
-Credits/w3.org.svg)](https://w3.org/)<!--[![image](
-Credits/jetbrains.com.svg)](https://jetbrains.com/)  
-[![image](
-Credits/GoLand-jetbrains.com.svg)](https://jetbrains.com/go/)  
-[![image](
 Credits/rust-lang.org.svg)](https://rust-lang.org/)  
 [![image](
-Credits/RustRover-jetbrains.com.svg)](https://jetbrains.com/rust/)-->
+Credits/developer.mozilla.org.svg)](https://developer.mozilla.org/)  
+[![image](
+Credits/web.dev.svgsvg)](https://web.dev.svg/)<!--[![image](
+Credits/jetbrains.com.svg)](https://jetbrains.com/)  
+[![image](
+Credits/CLion-jetbrains.com.svg)](https://jetbrains.com/clion/)-->  
+[![image](
+Credits/C-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/c/)  
+[![image](
+Credits/CPP-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/cpp/)
