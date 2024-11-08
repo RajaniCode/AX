@@ -37,7 +37,7 @@ Credits/rust-lang.org.svg)](https://rust-lang.org/)
 [![image](
 Credits/developer.mozilla.org.svg)](https://developer.mozilla.org/)  
 [![image](
-Credits/web.dev.svgsvg)](https://web.dev.svg/)<!--[![image](
+Credits/web.dev.svg)](https://web.dev.svg/)<!--[![image](
 Credits/jetbrains.com.svg)](https://jetbrains.com/)  
 [![image](
 Credits/CLion-jetbrains.com.svg)](https://jetbrains.com/clion/)-->  
