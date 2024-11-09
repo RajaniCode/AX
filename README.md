@@ -1,6 +1,8 @@
 Auxiliary
 ---------
 
+- WebAssembly
+
 - C#
 
 - .NET Framework
@@ -54,6 +56,24 @@ Auxiliary
 Credits
 -------
 [![image](
+Credits/webassembly.org.svg)](https://webassembly.org/)  
+[![image](
+Credits/emscripten.org.svg)](https://emscripten.org/)  
+[![image](
+Credits/assemblyscript.org.svg)](https://assemblyscript.org/)  
+[![image](
+Credits/typescriptlang.org.svg)](https://typescriptlang.org/)  
+[![image](
+Credits/tinygo.org.svg)](https://tinygo.org/)  
+[![image](
+Credits/go.dev.svg)](https://go.dev/)  
+[![image](
+Credits/rust-lang.org.svg)](https://rust-lang.org/)  
+[![image](
+Credits/developer.mozilla.org.svg)](https://developer.mozilla.org/)  
+[![image](
+Credits/web.dev.svg)](https://web.dev/)  
+[![image](
 Credits/developer.android.com.svg)](https://developer.android.com/)  
 [![image](
 Credits/developer.apple.com.svg)](https://developer.apple.com/)  
@@ -72,8 +92,6 @@ Credits/spark.apache.org.svg)](https://spark.apache.org/)
 Credits/docker.com.svg)](https://docker.com/)  
 [![image](
 Credits/ruby-lang.org.svg)](https://ruby-lang.org/)  
-[![image](
-Credits/go.dev.svg)](https://go.dev/)  
 [![image](
 Credits/r-project.org.svg)](https://r-project.org/)  
 [![image](
@@ -98,7 +116,5 @@ Credits/w3.org.svg)](https://w3.org/)<!--[![image](
 Credits/jetbrains.com.svg)](https://jetbrains.com/)  
 [![image](
 Credits/GoLand-jetbrains.com.svg)](https://jetbrains.com/go/)  
-[![image](
-Credits/rust-lang.org.svg)](https://rust-lang.org/)  
 [![image](
 Credits/RustRover-jetbrains.com.svg)](https://jetbrains.com/rust/)-->
