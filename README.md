@@ -3,53 +3,39 @@ Auxiliary
 
 - WebAssembly
 
-- C#
-
-- .NET Framework
-
-- ASP.NET MVC Razor
-
-- ASP.NET MVC
-
-- ASP.NET Web API
-
-- ASP.NET SignalR
-
-- ASP.NET
-
-- Entity Framework
-
-- BizTalk
-
-- SharePoint
-
 - Android
 
 - iOS
-
-- Analytics
-
-- Linux
 
 - C
 
 - C++
 
-- HTML-CSS
+- C#
 
-- PHP
+- BizTalk
 
-- Perl
+- SharePoint
+
+- Analytics
 
 - Docker
 
-- Git
+- PHP
 
-- Elixir
+- R
 
 - Golang
 
-- R
+- Elixir
+
+- HTML-CSS
+
+- Perl
+
+- Git
+
+- Linux
 
 - Regular Expressions
 
@@ -58,32 +44,13 @@ Credits
 [![image](
 Credits/webassembly.org.svg)](https://webassembly.org/)  
 [![image](
-Credits/emscripten.org.svg)](https://emscripten.org/)  
-[![image](
-Credits/assemblyscript.org.svg)](https://assemblyscript.org/)  
-[![image](
-Credits/typescriptlang.org.svg)](https://typescriptlang.org/)  
-[![image](
-Credits/tinygo.org.svg)](https://tinygo.org/)  
-[![image](
-Credits/go.dev.svg)](https://go.dev/)  
-[![image](
-Credits/rust-lang.org.svg)](https://rust-lang.org/)  
-[![image](
-Credits/developer.mozilla.org.svg)](https://developer.mozilla.org/)  
-[![image](
-Credits/web.dev.svg)](https://web.dev/)  
-[![image](
 Credits/developer.android.com.svg)](https://developer.android.com/)  
 [![image](
 Credits/developer.apple.com.svg)](https://developer.apple.com/)  
 [![image](
-Credits/microsoft.com.svg)](https://microsoft.com/)<!--[![image](
-Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)-->  
+Credits/microsoft.com.svg)](https://microsoft.com/)  
 [![image](
-Credits/CS.NET-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
-[![image](
-Credits/CS-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/languages/csharp/)   
+Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
 [![image](
 Credits/hadoop.apache.org.svg)](https://hadoop.apache.org/)  
 [![image](
@@ -91,9 +58,9 @@ Credits/spark.apache.org.svg)](https://spark.apache.org/)
 [![image](
 Credits/docker.com.svg)](https://docker.com/)  
 [![image](
-Credits/ruby-lang.org.svg)](https://ruby-lang.org/)  
-[![image](
 Credits/r-project.org.svg)](https://r-project.org/)  
+[![image](
+Credits/go.dev.svg)](https://go.dev/)  
 [![image](
 Credits/elixir-lang.org.svg)](https://elixir-lang.org/)  
 [![image](
@@ -112,9 +79,8 @@ Credits/UNIX-opengroup.org.svg)](https://opengroup.org/)
 Credits/opensource.org.svg)](https://opensource.org/)<!--[![image](
 Credits/opengroup.org.svg)](https://opengroup.org/)-->  
 [![image](
-Credits/w3.org.svg)](https://w3.org/)<!--[![image](
-Credits/jetbrains.com.svg)](https://jetbrains.com/)  
+Credits/developer.mozilla.org.svg)](https://developer.mozilla.org/)  
 [![image](
-Credits/GoLand-jetbrains.com.svg)](https://jetbrains.com/go/)  
+Credits/web.dev.svg)](https://web.dev/)  
 [![image](
-Credits/RustRover-jetbrains.com.svg)](https://jetbrains.com/rust/)-->
+Credits/w3.org.svg)](https://w3.org/)
