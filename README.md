@@ -1,8 +1,6 @@
 Auxiliary
 ---------
 
-- WebAssembly
-
 - Android
 
 - iOS
@@ -19,15 +17,11 @@ Auxiliary
 
 - Analytics
 
-- Docker
-
-- PHP
-
 - R
 
-- Golang
-
 - Elixir
+
+- PHP
 
 - HTML-CSS
 
@@ -56,11 +50,7 @@ Credits/hadoop.apache.org.svg)](https://hadoop.apache.org/)
 [![image](
 Credits/spark.apache.org.svg)](https://spark.apache.org/)  
 [![image](
-Credits/docker.com.svg)](https://docker.com/)  
-[![image](
 Credits/r-project.org.svg)](https://r-project.org/)  
-[![image](
-Credits/go.dev.svg)](https://go.dev/)  
 [![image](
 Credits/elixir-lang.org.svg)](https://elixir-lang.org/)  
 [![image](
