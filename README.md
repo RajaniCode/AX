@@ -36,11 +36,11 @@ Auxiliary
 Credits
 -------
 [![image](
-Credits/webassembly.org.svg)](https://webassembly.org/)  
-[![image](
 Credits/developer.android.com.svg)](https://developer.android.com/)  
 [![image](
 Credits/developer.apple.com.svg)](https://developer.apple.com/)  
+[![image](
+Credits/gcc.gnu.org.svg)](https://gcc.gnu.org/) 
 [![image](
 Credits/microsoft.com.svg)](https://microsoft.com/)  
 [![image](
@@ -56,9 +56,7 @@ Credits/elixir-lang.org.svg)](https://elixir-lang.org/)
 [![image](
 Credits/php.net.svg)](https://php.net/)  
 [![image](
-Credits/perl.org.svg)](https://perl.org/)  
-[![image](
-Credits/gcc.gnu.org.svg)](https://gcc.gnu.org/)  
+Credits/perl.org.svg)](https://perl.org/)   
 [![image](
 Credits/git-scm.com.svg)](https://git-scm.com/)  
 [![image](
