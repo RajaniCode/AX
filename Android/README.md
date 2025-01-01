@@ -3,7 +3,9 @@ Android
 
 - Android
 
-- Go
+- Dart
+
+- Flutter
 
 - Kotlin
 
@@ -13,8 +15,6 @@ Credits
 Credits/android.com.svg)](https://android.com/)  
 [![image](
 Credits/developer.android.com.svg)](https://developer.android.com/)  
-[![image](
-Credits/go.dev.svg)](https://go.dev/)  
 [![image](
 Credits/dart.dev.svg)](https://dart.dev/)  
 [![image](
@@ -30,8 +30,6 @@ Credits/gradle.org.svg)](https://gradle.org/)
 [![image](
 Credits/gradle.com.svg)](https://gradle.com/)  
 [![image](
-Credits/Go-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/dart/)  
-[![image](
-Credits/Go-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/go/)  
+Credits/Dart-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/dart/)  
 [![image](
 Credits/Kotlin-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/kotlin/)
