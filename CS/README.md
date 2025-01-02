@@ -75,6 +75,8 @@ Credits/xunit.net.svg)](https://xunit.net/)
 [![image](
 Credits/nmock.sourceforge.net.svg)](https://nmock.sourceforge.net/)  
 [![image](
+Credits/nant.sourceforge.net.svg)](https://nant.sourceforge.net/)  
+[![image](
 Credits/logging.apache.org.svg)](https://logging.apache.org/)  
 [![image](
 Credits/nlog-project.org.svg)](https://nlog-project.org/)  
