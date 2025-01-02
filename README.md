@@ -5,10 +5,6 @@ Auxiliary
 
 - iOS
 
-- C
-
-- C++
-
 - C#
 
 - BizTalk
@@ -20,6 +16,10 @@ Auxiliary
 - R
 
 - Elixir
+
+- C
+
+- C++
 
 - PHP
 
@@ -40,8 +40,6 @@ Credits/developer.android.com.svg)](https://developer.android.com/)
 [![image](
 Credits/developer.apple.com.svg)](https://developer.apple.com/)  
 [![image](
-Credits/gcc.gnu.org.svg)](https://gcc.gnu.org/) 
-[![image](
 Credits/microsoft.com.svg)](https://microsoft.com/)  
 [![image](
 Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
@@ -53,6 +51,8 @@ Credits/spark.apache.org.svg)](https://spark.apache.org/)
 Credits/r-project.org.svg)](https://r-project.org/)  
 [![image](
 Credits/elixir-lang.org.svg)](https://elixir-lang.org/)  
+[![image](
+Credits/gcc.gnu.org.svg)](https://gcc.gnu.org/)  
 [![image](
 Credits/php.net.svg)](https://php.net/)  
 [![image](
