@@ -40,7 +40,7 @@ Credits/developer.android.com.svg)](https://developer.android.com/)
 [![image](
 Credits/developer.apple.com.svg)](https://developer.apple.com/)  
 [![image](
-Credits/microsoft.com.svg)](https://microsoft.com/)  
+Credits/developer.microsoft.com.svg)](https://developer.microsoft.com/)  
 [![image](
 Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
 [![image](
