@@ -20,6 +20,8 @@ Credits/dart.dev.svg)](https://dart.dev/)
 [![image](
 Credits/flutter.dev.svg)](https://flutter.dev/)  
 [![image](
+Credits/docs.flutter.dev.svg)](https://docs.flutter.dev/)  
+[![image](
 Credits/kotlinlang.org.svg)](https://kotlinlang.org/)  
 [![image](
 Credits/openjdk.org.svg)](https://openjdk.org/)  
