@@ -16,6 +16,8 @@ Credits/apple.com.svg)](https://apple.com/)
 [![image](
 Credits/developer.apple.com.svg)](https://developer.apple.com/)  
 [![image](
+Credits/opensource.apple.com.svg)](https://opensource.apple.com/)  
+[![image](
 Credits/Xcode-developer.apple.com.svg)](https://developer.apple.com/xcode/)  
 [![image](
 Credits/opensource.apple.com.svg)](https://opensource.apple.com/)  
