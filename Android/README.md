@@ -22,7 +22,7 @@ Credits/dart.dev.svg)](https://dart.dev/)
 [![image](
 Credits/flutter.dev.svg)](https://flutter.dev/)  
 [![image](
-Credits/go.dev.svg)](https://go.dev/)  
+Credits/Mobile.go.dev.svg)](https://go.dev/wiki/Mobile/)  
 [![image](
 Credits/kotlinlang.org.svg)](https://kotlinlang.org/)  
 [![image](
