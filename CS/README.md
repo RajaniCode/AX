@@ -7,8 +7,6 @@ CS
 
 - ASP.NET MVC Razor
 
-- ASP.NET MVC
-
 - ASP.NET Web API
 
 - ASP.NET SignalR
@@ -16,6 +14,8 @@ CS
 - ASP.NET
 
 - Entity Framework
+
+- ADO.NET
 
 - SQL Server
 
