@@ -93,7 +93,7 @@ Credits/ncover.com.svg)](https://www.ncover.com/)
 [![image](
 Credits/essentialobjects.com.svg)](https://essentialobjects.com/)  
 [![image](
-Credits/Crystal-Reports-sap.com.svg)](https://sap.com/)  
+Credits/Crystal-Reports-sap.com.svg)](https://www.sap.com/products/technology-platform/crystal-reports.html)  
 [![image](
 Credits/linqpad.net.svg)](https://linqpad.net/)  
 [![image](
