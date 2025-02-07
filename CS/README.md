@@ -7,15 +7,7 @@ C#
 
 - ASP.NET MVC Razor
 
-- ASP.NET Web API
-
-- ASP.NET SignalR
-
 - ASP.NET
-
-- Entity Framework
-
-- ADO.NET
 
 - SQL Server
 
