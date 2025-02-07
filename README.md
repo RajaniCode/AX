@@ -3,6 +3,12 @@ Auxiliary
 
 - C#
 
+- .NET Framework
+
+- ASP.NET MVC Razor
+
+- ASP.NET
+
 - BizTalk
 
 - SharePoint
