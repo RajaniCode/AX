@@ -21,10 +21,6 @@ Auxiliary
 
 - Perl
 
-- HTML-CSS
-
-- Git
-
 Credits
 -------
 [![image](
